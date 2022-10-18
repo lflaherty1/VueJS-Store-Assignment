@@ -1,4 +1,4 @@
-# vuex-shopping-cart
+# Vue Demo Project
 
 ## Project setup
 
