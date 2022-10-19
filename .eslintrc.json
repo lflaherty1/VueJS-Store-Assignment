@@ -9,5 +9,7 @@
     "ecmaVersion": "latest"
   },
   "plugins": ["vue"],
-  "rules": {}
+  "rules": {
+    "indent": 0
+  }
 }
